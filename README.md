@@ -1,2 +1,3 @@
-# DataStructures
-Material and projects of data structures
+# Tails
+Tail's class with some small application problems
+Note: all annotations are in Spanish
